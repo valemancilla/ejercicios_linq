@@ -112,6 +112,6 @@ Las carpetas **`bin`** y **`obj`** las genera el compilador; no deben editarse a
 
 ## Autor
 
-**Nombre:** *[Escribe aquí tu nombre completo, curso o grupo, según lo exija tu institución.]*
+**Nombre:** *Valentina Mancilla Casanova *
 
-**Referencia académica:** implementación del taller descrito en **Ejercicios progresivos de LINQ en C#** (taller de **15** ejercicios, cinco bloques).
+
