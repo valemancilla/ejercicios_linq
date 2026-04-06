@@ -47,3 +47,4 @@ c:\Users\ASUS\Documents\PROGRAMACION\C#\CSharProjects\ejercicios_linq\_bsep\ejer
 c:\Users\ASUS\Documents\PROGRAMACION\C#\CSharProjects\ejercicios_linq\_bsep\ejercicios_linq.runtimeconfig.json
 c:\Users\ASUS\Documents\PROGRAMACION\C#\CSharProjects\ejercicios_linq\_bsep\ejercicios_linq.dll
 c:\Users\ASUS\Documents\PROGRAMACION\C#\CSharProjects\ejercicios_linq\_bsep\ejercicios_linq.pdb
+C:\Users\ASUS\Documents\PROGRAMACION\C#\CSharProjects\ejercicios_linq\obj\Debug\net10.0\ejercicios_linq.sourcelink.json
